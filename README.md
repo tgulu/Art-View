@@ -21,7 +21,10 @@ ART-View is a Flask-based website that allows users to explore a diverse collect
 
 ## Preview
 
-![ART-View Preview](insert_image_url_here)
+![ART-View Main Page Preview](https://github.com/tgulu/Art-View/assets/86728005/4d5a5111-bc10-4c39-8570-dc6d7ef27dae)
+
+![ART-View Login Preview](https://github.com/tgulu/Art-View/assets/86728005/1f530321-0759-427d-8f8f-4ef976f58b2c)
+
 
 ## Getting Started
 
