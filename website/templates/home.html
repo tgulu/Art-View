@@ -1,0 +1,12 @@
+{% extends "base.html" %}
+
+{% block title %}ART View{% endblock %}
+
+{% block content %}
+<br />
+<h1 align="center">ART View</h1>
+<h3 align="center">Art Institute of Chicago</h3>
+
+<div id="artworkList"></div>
+<script src="{{ url_for('static', filename='script.js') }}"></script>
+{% endblock %}
