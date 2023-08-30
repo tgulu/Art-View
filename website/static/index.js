@@ -1,3 +1,5 @@
+// allows users to be able to delete previous reviews 
+
 function deleteNote(noteId) {
   fetch("/delete-note", {
     method: "POST",
